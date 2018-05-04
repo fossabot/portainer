@@ -1,4 +1,3 @@
-
 <p align="center">
   <img title="portainer" src='https://portainer.io/images/logo_alt.png' />
 </p>
@@ -11,6 +10,7 @@
 [![Slack](https://portainer.io/slack/badge.svg)](https://portainer.io/slack/)
 [![Gitter](https://badges.gitter.im/portainer/Lobby.svg)](https://gitter.im/portainer/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YHXZJQNJQ36H6)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fportainer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fportainer?ref=badge_shield)
 
 **_Portainer_** is a lightweight management UI which allows you to **easily** manage your different Docker environments (Docker hosts or Swarm clusters).
 
@@ -61,3 +61,7 @@ Unlike the public demo, the playground sessions are deleted after 4 hours. Apart
 Partial support for the following Docker versions (some features may not be available):
 
 * Docker 1.9
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fportainer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fportainer?ref=badge_large)
